@@ -29,4 +29,10 @@
 
 ## Importing Package and Calling Modules
 
-![app.py File Execution](/assets/image.png)
+- **app.py**
+  ![app.py File Execution](/assets/one-numan-image.png)
+- **python_sample_package** Folder Name
+  - `__init__.py`
+  - module1.py
+  - module2.py
+    ![Python Sample Package](assets/one-numan-image2.png)
