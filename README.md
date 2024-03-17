@@ -29,12 +29,30 @@
 
 ## How to make package... (follow)
 
+### Steps:
+
+- **Create a Directory:**
+  Begin by creating a new directory for your package. This directory name will typically be the name of your package (e.g., my_package).
+
+- **Create Modules:**
+  Within your package directory, create individual Python modules (.py files) that contain your reusable functions, classes, and variables. Each module represents a specific functionality or set of related functionalities.
+
+- `__init__.py` (Optional):
+  While not strictly mandatory, an empty **init**.py file within the package directory is a common practice. This file signals to Python that the directory is a package and can be imported. It can also contain initialization code for your package, if needed.
+
+**These are my step | How I Build Modules**
+
 ### Importing Package and Calling Modules
 
-- **app.py**
-  ![app.py File Execution](/assets/one-numan-image.png)
-- **python_sample_package** Folder Name
-  - `__init__.py`
-  - module1.py
-  - module2.py
+- **python_sample_package** Folder Name | for Simplicity
+
+  - `__init__.py` File | Calling Each Modules
+  - module1.py File | Define Function Which I will call in app.py
+  - module2.py File |
     ![Python Sample Package](assets/one-numan-image2.png)
+
+- **app.py** Main File Where I called Function from Modules / Package.
+  ![app.py File Execution](/assets/one-numan-image.png)
+- I get the data.
+
+- I hope this will help for you
