@@ -1,6 +1,8 @@
 # Python Package
+
 - Python packages are fundamental building blocks for writing well-organized and reusable Python code. They provide a way to structure your code into logical modules that can be easily imported and used in other parts of your project, or even shared with others as reusable libraries.
 - InShort - Python Packages are a way to organize and structure your Python code into reusable components
+
 ### Here's a breakdown of what Python packages are and why they're important:
 
 ## Components of a Python Package:
@@ -17,7 +19,6 @@
 - Collaboration: Facilitate teamwork by providing a shared codebase that others can readily import and use.
 - Namespace Management: Avoid naming conflicts with functions or variables from other modules or the built-in Python library.
 
-
 ## Benefits:
 
 - Improved Organization: Keep your codebase well-structured and organized, fostering better understanding and collaboration.
@@ -25,3 +26,7 @@
 - Simplified Maintenance: Easily modify or update individual components without affecting the entire codebase.
 - Error Reduction: Promote clarity and consistency in coding practices, mitigating the risk of errors.
 - Scalability: Design applications that can grow and adapt effortlessly by adding new modules as needed.
+
+## Importing Package and Calling Modules
+
+![app.py File Execution](/assets/image.png)
