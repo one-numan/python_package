@@ -27,7 +27,9 @@
 - Error Reduction: Promote clarity and consistency in coding practices, mitigating the risk of errors.
 - Scalability: Design applications that can grow and adapt effortlessly by adding new modules as needed.
 
-## Importing Package and Calling Modules
+## How to make package... (follow)
+
+### Importing Package and Calling Modules
 
 - **app.py**
   ![app.py File Execution](/assets/one-numan-image.png)
