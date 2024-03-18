@@ -1,9 +1,7 @@
 """Main File for this Project"""
 
-import python_sample_package as pg
 from python_sample_package import module1, module2
-from python_sample_package.module1 import cal_square
-print(pg.__file__)
+
 # Module 1 | Call calculate_Square function
 output_sq = module1.cal_square(3)
 print(output_sq)
